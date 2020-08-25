@@ -1,4 +1,4 @@
-# DidIStutter
+# Did I Stutter?
 
 To start your Phoenix server:
 
